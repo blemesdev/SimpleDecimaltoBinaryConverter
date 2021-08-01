@@ -1,15 +1,19 @@
 header{
     background-color: #2A4468;
-    height: 150px;
+    height: 100px;
     max-width: 100%;
 }
-
-
-.form{
+.formulario{
+    position: relative;
+    align-content: center;
+    justify-content: center;
     align-items: center;
-    flex-direction: row;
+}
+
+.form {
     width: 100%;
     margin-top: 40px;
+   
 }
 input{
     border: none;
